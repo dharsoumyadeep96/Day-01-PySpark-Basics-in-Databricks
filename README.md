@@ -1,8 +1,8 @@
 # Databricks 14 Days AI Challenge 
 
-## PHASE 1: FOUNDATION (Days 1-4)
+## 🚀 PHASE 1: FOUNDATION (Days 1-4)
 
-## Day-01-PySpark-Basics-in-Databricks
+## Day 1️⃣-PySpark-Basics-in-Databricks
 
 ### DAY 1 (09/01/26)– Databricks Platform Setup &amp; First Steps
 
